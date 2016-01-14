@@ -24,9 +24,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.coolweather.app.activity.WeatherActivity"></activity>
-        <service android:name="com.coolweather.app.service.AutoUpdateService"></service>
-        <receiver android:name="com.coolweather.app.receiver.AutoUpdateReceiver"></receiver>
+        <activity android:name="com.qingfengweather.app.activity.WeatherActivity"></activity>
+        <service android:name="com.qingfengweather.app.service.AutoUpdateService"></service>
+        <receiver android:name="com.qingfengweather.app.receiver.AutoUpdataReceiver"></receiver>
     </application>
 
 </manifest>
